@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Go build output
+/server
+/demo
+*.exe
+*.test
+*.out
+
+# Editors
+.idea/
+.vscode/
+
+.claude/
